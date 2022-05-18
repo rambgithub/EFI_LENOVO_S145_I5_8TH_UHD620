@@ -1385,21 +1385,21 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02801207GUJH4RA8</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>ROM</key>
-			<data>W7NXcia+</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02W2DZFJHCC</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>F34ADB53-D98C-42F2-88DB-3C264DB51374</string>
+			<string></string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -1436,9 +1436,9 @@
 			<key>JumpstartHotPlug</key>
 			<false/>
 			<key>MinDate</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 			<key>MinVersion</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 		</dict>
 		<key>Audio</key>
 		<dict>
